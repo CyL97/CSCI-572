@@ -1,0 +1,39 @@
+Name: Chaoyu Li
+USC ID: 6641732094
+News site crawled: latimes.com
+Number of threads: 64
+
+Fetch Statistics
+================
+# fetches total: 19999
+# fetches succeeded: 19883
+# fetches failed or aborted: 116
+
+Outgoing URLs:
+==============
+Total URLs extracted: 1983606
+# unique URLs extracted: 613113
+# unique URLs within News Site: 447992
+# unique URLs outside News Site: 165121
+
+Status Codes:
+=============
+200 OK: 19883
+301 Moved Permanently: 83
+302 Moved Temporarily: 27
+404 Resource Not Found: 6
+
+File Sizes:
+===========
+< 1KB: 12
+1KB ~ <10KB: 14
+10KB ~ <100KB: 628
+100KB ~ <1MB: 18456
+>= 1MB: 11
+
+Content Types:
+==============
+image/png: 28
+text/html: 19091
+image/jpeg: 1
+image/svg+xml: 1
