@@ -12,9 +12,8 @@ The link above leads to the official website of the courses provided by Saty. It
 | 4  | Indexing using Lunr, Solr | 10/10 |
 | 5  | Vector DB  | 10/10 |
 
-## [Personal Note](https://github.com/AsunaSS/CSCI-585/releases/download/Note/CSCI585_Note.pdf)
+## [Personal Note](CSCI572_Note.pdf)
 This PDF records all my class notes, which contains my personal understanding of all key knowledge of this course. It summarizes all the knowledge that the midterm and final exam may cover. However, this document alone **will not help you do well on the exam**. According to 23Spring's experience, the exam will be **completely open to the Internet and even ChatGPT**. It means that you must understand the knowledge points of the course or hand over your fate to GPT.
 
 ## Exams(25%+25%)
-This course has two exams, midterm and final. There are **10** bonus points for midterm exam and **6** bonus points for final exam, but the maximum point will still be 35 for both. I uploaded the [rubrics for midterm exam](CSCI-585_S_2023_Midterm_Exam_Rubric.pdf) and [my own answers for final exam](Final.pdf) since Saty didn't provide the rubrics for final.
-
+This course has two exams, midterm and final. There are **5** bonus points for both midterm exam and final exam, but the maximum point will still be 25 for both. I uploaded my own answers for [the midterm exam](Midterm.pdf) and [the final exam](Final.pdf) since Saty didn't provide the rubrics for either.
